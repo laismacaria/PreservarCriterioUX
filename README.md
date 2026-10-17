@@ -3,4 +3,4 @@ Archivo de la charla "Automatizar el método, preservar el criterio: el valor de
 
 Slides de la charla [CharlaNerdearla-LaisMacaria.pdf](https://github.com/user-attachments/files/33579337/CharlaNerdearla-LaisMacaria.pdf)
 
-Fanzine para imprimir y compartir [Fanzine-Lais-Nerdearla_imprimir.pdf](https://github.com/user-attachments/files/33579339/Fanzine-Lais-Nerdearla_imprimir.pdf)
+Fanzine para imprimir y compartir [En proceso de rearmado de pliego de impresion)
