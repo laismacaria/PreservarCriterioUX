@@ -8,8 +8,7 @@ Fanzine para imprimir y compartir [Fanzine-Lais-Nerdearla_Imprimir.pdf](https://
 Como Armar el Fanzine: 
 1)Imprimir las hojas en papel común doble faz sin ajustar. 
 2) cortar x las lineas de puntos para que te queden estos papelitos asi: 
-![fotos](https://github.com/user-attachments/assets/57565c34-fbfa-4249-994b-838c87ca980e)
+![fotos](https://github.com/user-attachments/assets/adc3bff8-3321-4ce5-a3f4-95722fdbc2c5)
 3) Acomodarlos en orden: la hoja 1 es la base y encima pones la 2, la 3, la 4 etc.
 4) Acomodás y doblas todo a la mitad. 
-3y 4 en video: https://github.com/user-attachments/assets/8382d1bb-1173-4114-82c7-19af6c831e6c
 5) Listo! 
