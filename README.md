@@ -7,7 +7,7 @@ Fanzine para imprimir y compartir [Fanzine-Lais-Nerdearla_Imprimir.pdf](https://
 
 Como Armar el Fanzine:
 
-1)Imprimir las hojas en papel común doble faz sin ajustar. 
+1) Imprimir las hojas en papel común doble faz sin ajustar. 
 
 2) cortar x las lineas de puntos
    
